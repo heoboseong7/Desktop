@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\bo seong\documents\github\mygit\2학기실습\실습17\소스.c(20): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\bo seong\documents\github\mygit\2학기실습\실습17\소스.c(12): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  실습17.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\2학기실습\Debug\실습17.exe
+  실습17.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\2학기실습\Debug\실습17.pdb (Partial PDB)

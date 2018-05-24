@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\administrator\documents\github\mygit\2017cpc\g번\소스.cpp(17): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\administrator\documents\github\mygit\2017cpc\g번\소스.cpp(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  G번.vcxproj -> C:\Users\Administrator\Documents\GitHub\mygit\2017CPC\Debug\G번.exe
+  G번.vcxproj -> C:\Users\Administrator\Documents\GitHub\mygit\2017CPC\Debug\G번.pdb (Partial PDB)

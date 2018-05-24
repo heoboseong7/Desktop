@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\github\mygit\clug\18. bfs와 dfs\소스.cpp(25): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\bo seong\documents\github\mygit\clug\18. bfs와 dfs\소스.cpp(51): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  18. bfs와 dfs.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\CLUG\Debug\18. bfs와 dfs.exe
+  18. bfs와 dfs.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\CLUG\Debug\18. bfs와 dfs.pdb (Partial PDB)

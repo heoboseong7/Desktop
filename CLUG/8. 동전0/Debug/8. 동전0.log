@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\8. 동전0\소스.cpp(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\8. 동전0\소스.cpp(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  8. 동전0.vcxproj -> C:\Users\Bo Seong\Documents\Visual Studio 2017\Projects\CLUG 알고리즘반\Debug\8. 동전0.exe
+  8. 동전0.vcxproj -> C:\Users\Bo Seong\Documents\Visual Studio 2017\Projects\CLUG 알고리즘반\Debug\8. 동전0.pdb (Partial PDB)

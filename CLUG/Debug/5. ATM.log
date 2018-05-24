@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(387,5): warning MSB8028: 중간 디렉터리(Debug\)에 다른 프로젝트(5. ATM.vcxproj)에서 공유하는 파일이 포함되어 있습니다.  이로 인해 잘못된 정리 및 다시 빌드 동작이 수행될 수 있습니다.
+  소스.cpp
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\5. atm\소스.cpp(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\5. atm\소스.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  5. ATM.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\05. ATM.exe
+  5. ATM.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\05. ATM.pdb (Partial PDB)

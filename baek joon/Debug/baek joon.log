@@ -1,0 +1,2 @@
+﻿소스.obj : error LNK2005: _main이(가) 상수.obj에 이미 정의되어 있습니다.
+C:\Users\Bo Seong\documents\visual studio 2017\Projects\baek joon\Debug\baek joon.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

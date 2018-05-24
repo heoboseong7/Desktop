@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\11. 오르막길\소스.cpp(19): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\11. 오르막길\소스.cpp(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  11. 오르막길.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\11. 오르막길.exe
+  11. 오르막길.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\11. 오르막길.pdb (Partial PDB)

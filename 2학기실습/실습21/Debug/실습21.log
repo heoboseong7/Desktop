@@ -1,0 +1,7 @@
+﻿  소스.c
+c:\users\bo seong\documents\github\mygit\2학기실습\실습21\소스.c(18): warning C4996: 'putw': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _putw. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2460): note: 'putw' 선언을 참조하십시오.
+c:\users\bo seong\documents\github\mygit\2학기실습\실습21\소스.c(25): warning C4996: 'getw': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getw. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(2459): note: 'getw' 선언을 참조하십시오.
+  실습21.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\2학기실습\Debug\실습21.exe
+  실습21.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\2학기실습\Debug\실습21.pdb (Partial PDB)

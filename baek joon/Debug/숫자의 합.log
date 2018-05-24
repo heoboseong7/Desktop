@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\bo seong\documents\github\mygit\baek joon\숫자의 합\소스.c(15): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\bo seong\documents\github\mygit\baek joon\숫자의 합\소스.c(17): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  숫자의 합.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\baek joon\Debug\숫자의 합.exe
+  숫자의 합.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\baek joon\Debug\숫자의 합.pdb (Partial PDB)

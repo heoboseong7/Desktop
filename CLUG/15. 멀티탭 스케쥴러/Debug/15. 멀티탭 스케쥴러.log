@@ -1,0 +1,8 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\15. 멀티탭 스케쥴러\소스.cpp(21): warning C4101: 'min' :참조되지 않은 지역 변수입니다.
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\15. 멀티탭 스케쥴러\소스.cpp(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\15. 멀티탭 스케쥴러\소스.cpp(51): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  15. 멀티탭 스케쥴러.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\15. 멀티탭 스케쥴러.exe
+  15. 멀티탭 스케쥴러.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\15. 멀티탭 스케쥴러.pdb (Partial PDB)

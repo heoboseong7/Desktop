@@ -1,0 +1,16 @@
+﻿  소스.c
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(13): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(21): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(34): warning C4476: 'printf' : 서식 지정자에 알 수 없는 형식 필드 문자 '\xea'이(가) 있습니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(34): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(34): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 1개 필요하지만 2개가 제공되었습니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(39): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\2학기실습\소스.c(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  2학기실습.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\2학기실습\Debug\실습01 swap.exe
+  2학기실습.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\2학기실습\Debug\실습01 swap.pdb (Partial PDB)

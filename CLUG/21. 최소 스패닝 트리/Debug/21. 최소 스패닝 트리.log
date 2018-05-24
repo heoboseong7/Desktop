@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\github\mygit\clug\21. 최소 스패닝 트리\소스.cpp(34): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\bo seong\documents\github\mygit\clug\21. 최소 스패닝 트리\소스.cpp(36): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  21. 최소 스패닝 트리.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\CLUG\Debug\21. 최소 스패닝 트리.exe
+  21. 최소 스패닝 트리.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\CLUG\Debug\21. 최소 스패닝 트리.pdb (Partial PDB)

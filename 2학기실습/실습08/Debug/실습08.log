@@ -1,0 +1,7 @@
+﻿  소스.c
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습08\소스.c(57): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습08\소스.c(52): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습08\소스.c(53): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습08\소스.c(54): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+  실습08.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\2학기실습\Debug\실습08.exe
+  실습08.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\2학기실습\Debug\실습08.pdb (Partial PDB)

@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\administrator\desktop\clug 알고리즘반\15. 멀티탭 스케쥴러\소스.cpp(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\administrator\desktop\clug 알고리즘반\15. 멀티탭 스케쥴러\소스.cpp(46): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  15. 멀티탭 스케쥴러.vcxproj -> C:\Users\Administrator\Desktop\CLUG 알고리즘반\x64\Debug\15. 멀티탭 스케쥴러.exe
+  15. 멀티탭 스케쥴러.vcxproj -> C:\Users\Administrator\Desktop\CLUG 알고리즘반\x64\Debug\15. 멀티탭 스케쥴러.pdb (Partial PDB)

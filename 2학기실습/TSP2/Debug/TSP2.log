@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\github\mygit\2학기실습\tsp2\소스.cpp(44): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  TSP2.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\2학기실습\Debug\TSP2.exe
+  TSP2.vcxproj -> C:\Users\Bo Seong\Documents\GitHub\mygit\2학기실습\Debug\TSP2.pdb (Partial PDB)

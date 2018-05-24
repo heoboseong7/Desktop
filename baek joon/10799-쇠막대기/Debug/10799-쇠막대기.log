@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\administrator\documents\github\mygit\baek joon\10799-쇠막대기\소스.cpp(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  10799-쇠막대기.vcxproj -> C:\Users\Administrator\Documents\GitHub\mygit\baek joon\Debug\10799-쇠막대기.exe
+  10799-쇠막대기.vcxproj -> C:\Users\Administrator\Documents\GitHub\mygit\baek joon\Debug\10799-쇠막대기.pdb (Partial PDB)

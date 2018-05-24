@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\16. 부분집합의 합\소스.cpp(12): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\bo seong\documents\visual studio 2017\projects\clug 알고리즘반\16. 부분집합의 합\소스.cpp(18): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  16. 부분집합의 합.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\16. 부분집합의 합.exe
+  16. 부분집합의 합.vcxproj -> C:\Users\Bo Seong\documents\visual studio 2017\Projects\CLUG 알고리즘반\Debug\16. 부분집합의 합.pdb (Partial PDB)

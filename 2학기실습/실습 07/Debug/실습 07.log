@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습 07\소스.c(10): warning C4013: 'gets'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습 07\소스.c(13): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습 07\소스.c(18): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  실습 07.vcxproj -> C:\Users\Bo Seong\Documents\Visual Studio 2017\Projects\2학기실습\Debug\실습07.exe
+  실습 07.vcxproj -> C:\Users\Bo Seong\Documents\Visual Studio 2017\Projects\2학기실습\Debug\실습07.pdb (Partial PDB)

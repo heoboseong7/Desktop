@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습09\소스.c(14): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\bo seong\documents\visual studio 2017\projects\2학기실습\실습09\소스.c(16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  실습09.vcxproj -> C:\Users\Bo Seong\Documents\Visual Studio 2017\Projects\2학기실습\Debug\실습09.exe
+  실습09.vcxproj -> C:\Users\Bo Seong\Documents\Visual Studio 2017\Projects\2학기실습\Debug\실습09.pdb (Partial PDB)
