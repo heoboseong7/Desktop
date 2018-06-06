@@ -1,7 +1,13 @@
+/*
+** 20175969 허보성
+** 자료구조 프로그래밍 과제 02
+** 5/30 수정
+*/
 #pragma warning(disable : 4996)
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <stdbool.h>
 
 typedef struct node *nodePtr;
 typedef struct node {
@@ -11,7 +17,7 @@ typedef struct node {
 }node;
 
 typedef struct path {
-	int path;
+	long long int path;
 	int n;
 }path;
 
@@ -38,6 +44,7 @@ int getinput() {
 		nodePtr childPtr = preorder_find(input[0], root);
 		path relation = pathfind(childPtr, input[4]);
 		printpath(relation, childPtr);
+		return 1;
 	}
 	else if (input[0] == '$')
 		return 0;
@@ -45,26 +52,27 @@ int getinput() {
 		append(input[4], input[2], input[0]);
 		preorder_print(root);
 		printf("\n");
+		return 1;
 	}
 }
 
 void append(char parent, char relation, char child) {
 	nodePtr childPtr = preorder_find(child, root);
 	
-	if (childPtr != NULL) {
+	if (childPtr) {
 		nodePtr temp = malloc(sizeof(node));
 		temp->mother = NULL;
 		temp->father = NULL;
 		temp->_name = parent;
 
-		if ((int)relation == 'F') {
+		if (relation == 'F') {
 			childPtr->father = temp;
 		}
-		else if ((int)relation == 'M') {
+		else if (relation == 'M') {
 			childPtr->mother = temp;
 		}
 	}
-	else if(root != NULL){
+	else if(root){
 		childPtr = malloc(sizeof(node));
 		childPtr->_name = child;
 		if (relation == 'F') {
@@ -105,15 +113,15 @@ void preorder_print(nodePtr _ptr) {
 }
 
 nodePtr preorder_find(char ans, nodePtr _ptr) {
-	if (_ptr == NULL) 
+	if (!_ptr) 
 		return NULL;
-	else if ((int)_ptr->_name == ans)
+	else if (_ptr->_name == ans)
 		return _ptr;
 	else {
 		nodePtr temp = NULL;
-		if(_ptr->father != NULL)
+		if(_ptr->father)
 			temp = preorder_find(ans, _ptr->father);
-		if(temp == NULL && _ptr->mother != NULL)
+		if(!temp && _ptr->mother)
 			temp = preorder_find(ans, _ptr->mother);
 		return temp;
 	}
@@ -131,19 +139,19 @@ path pathfind(nodePtr start, char ans) {
 			else
 				temp = temp->father;
 		}
-		if (temp == NULL) {
-			result.n -= 1;
+		if (!temp) {
+			result.n--;
 			result.path &= (1 << result.n) - 1;
 			result.path |= 1 << (result.n - 1);
 			continue;
 		}
 		else if (temp->_name == ans)
 			break;
-		else if (temp->father != NULL) 
-			result.n += 1;
-		else if (temp->mother != NULL) {
+		else if (temp->father) 
+			result.n++;
+		else if (temp->mother) {
 			result.path |= 1 << (result.n - 1);
-			result.n += 1;
+			result.n++;
 		}		
 		else
 			result.path |= 1 << (result.n - 1);	
